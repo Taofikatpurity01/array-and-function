@@ -1,14 +1,14 @@
 // question 1
 // mutating array is basically changing the array itself instead of returning a new array  with the new  changes while non-mutating array is returning a whole new array which has all the changes
 
-examples of mutating array:-
+'examples of mutating array:-'
 prototype.pop()
 prototype.push()
 prototype.shift()
 prototype.unshift()
 prototype.reverse()
 
-examples of non-mutating array:-
+'examples of non-mutating array:-'
 prototype.slice()
 prototype.concat()
 prototype.map()
